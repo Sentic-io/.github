@@ -11,15 +11,16 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=32&duration=2800&pause=1200&color=6C63FF&center=true&vCenter=true&width=750&lines=Activate+Growth.+Launch+Into+Orbit.;Strategy+%2B+High-Velocity+Marketing.;Built+for+Established+Brands.;Grow+Faster.+Compromise+Less." alt="Sentic" />
 </p>
+
 <br/>
 
 <p align="center">
-  <a href="https://sentic.com/schedule">
+  <a href="https://www.sentic.io/schedule" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/%E2%86%92%20Schedule%20a%20Call-6C63FF?style=for-the-badge&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://sentic.com">
-    <img src="https://img.shields.io/badge/Visit%20Sentic.com-0D0D0D?style=for-the-badge&logo=google-chrome&logoColor=6C63FF" />
+  <a href="https://www.sentic.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Visit%20Sentic.io-0D0D0D?style=for-the-badge&logo=google-chrome&logoColor=6C63FF" />
   </a>
 </p>
 
@@ -85,9 +86,6 @@
 
 <br/>
 
-
-<br/>
-
 <div align="center">
 
 | 🟣 &nbsp; 01 — Activate Growth | 🔵 &nbsp; 02 — Build Momentum | 🌌 &nbsp; 03 — Reach Escape Velocity |
@@ -108,9 +106,6 @@
 <p align="center">
   Growth Scenarios
 </p>
-
-<br/>
-
 
 <br/>
 
@@ -136,9 +131,6 @@
 <p align="center">
   Client Voices
 </p>
-
-<br/>
-
 
 <br/>
 
@@ -185,16 +177,13 @@
 
 <br/>
 
-
-<br/>
-
 <div align="center">
 
 | 📌 &nbsp; Article |
 |:---|
-| [SEO in 2026: How AI Is Rewriting the Rules of Search — And What to Do About It](https://sentic.com/insights) |
-| [SEO Secrets Unleashed: Top Tactics to Dominate Search Engines](https://sentic.com/insights) |
-| [Maximizing Marketing ROI with Attribution Modeling](https://sentic.com/insights) |
+| [SEO in 2026: How AI Is Rewriting the Rules of Search — And What to Do About It](https://www.sentic.io/insights) |
+| [SEO Secrets Unleashed: Top Tactics to Dominate Search Engines](https://www.sentic.io/insights) |
+| [Maximizing Marketing ROI with Attribution Modeling](https://www.sentic.io/insights) |
 
 </div>
 
@@ -213,23 +202,9 @@
 
 <br/>
 
-<br/>
-
 <p align="center">
-  <a href="https://sentic.com/schedule">
+  <a href="https://www.sentic.io/schedule" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/%E2%86%92%20Schedule%20a%20Call-6C63FF?style=for-the-badge&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/company/sentic">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://facebook.com/sentic">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://youtube.com/@sentic">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
