@@ -15,7 +15,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://www.sentic.io/schedule" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.sentic.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/%E2%86%92%20Schedule%20a%20Call-6C63FF?style=for-the-badge&logoColor=white" />
   </a>
   &nbsp;
@@ -203,7 +203,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://www.sentic.io/schedule" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.sentic.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/%E2%86%92%20Schedule%20a%20Call-6C63FF?style=for-the-badge&logoColor=white" />
   </a>
 </p>
