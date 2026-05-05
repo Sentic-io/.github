@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./logo.png" width="180" alt="Sentic" style="margin-top: -60px;" />
+  <img src="/logo.png" width="180" alt="Sentic" style="margin-top: -60px;" />
 </p>
 
 <br/>
