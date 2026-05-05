@@ -11,11 +11,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=32&duration=2800&pause=1200&color=6C63FF&center=true&vCenter=true&width=750&lines=Activate+Growth.+Launch+Into+Orbit.;Strategy+%2B+High-Velocity+Marketing.;Built+for+Established+Brands.;Grow+Faster.+Compromise+Less." alt="Sentic" />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=400&size=16&duration=0&pause=0&color=888888&center=true&vCenter=true&width=700&lines=We+help+established+brands+reach+new+heights+%E2%80%94+clear+strategy+meets+high-velocity+marketing." alt="Sentic Subheadline" />
-</p>
-
 <br/>
 
 <p align="center">
@@ -38,7 +33,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=11&duration=0&pause=0&color=6C63FF&center=true&vCenter=true&width=300&lines=%E2%80%94+%20BY+THE+NUMBERS+%20%E2%80%94" alt="By the numbers" />
+  By The Numbers
 </p>
 
 <br/>
@@ -59,7 +54,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=11&duration=0&pause=0&color=6C63FF&center=true&vCenter=true&width=300&lines=%E2%80%94+%20WHAT+WE+DO+%20%E2%80%94" alt="What we do" />
+  What We Do
 </p>
 
 <br/>
@@ -85,14 +80,11 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=11&duration=0&pause=0&color=6C63FF&center=true&vCenter=true&width=300&lines=%E2%80%94+%20YOUR+LAUNCH+PLAN+%20%E2%80%94" alt="Launch Plan" />
+  Launch Plan
 </p>
 
 <br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=22&duration=0&pause=0&color=FFFFFF&center=true&vCenter=true&width=700&lines=Taking+you+to+new+heights+you+never+thought+possible." alt="Launch Headline" />
-</p>
 
 <br/>
 
@@ -114,14 +106,11 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=11&duration=0&pause=0&color=6C63FF&center=true&vCenter=true&width=300&lines=%E2%80%94+%20GROWTH+SCENARIOS+%20%E2%80%94" alt="Growth Scenarios" />
+  Growth Scenarios
 </p>
 
 <br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=22&duration=0&pause=0&color=FFFFFF&center=true&vCenter=true&width=700&lines=Data-driven+solutions+for+every+growth+scenario." alt="Growth Scenarios Headline" />
-</p>
 
 <br/>
 
@@ -145,14 +134,11 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=11&duration=0&pause=0&color=6C63FF&center=true&vCenter=true&width=300&lines=%E2%80%94+%20CLIENT+VOICES+%20%E2%80%94" alt="Client Voices" />
+  Client Voices
 </p>
 
 <br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=22&duration=0&pause=0&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hear+what+our+clients+are+saying+about+us." alt="Testimonials Headline" />
-</p>
 
 <br/>
 
@@ -194,14 +180,11 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=11&duration=0&pause=0&color=6C63FF&center=true&vCenter=true&width=300&lines=%E2%80%94+%20LATEST+INSIGHTS+%20%E2%80%94" alt="Latest Insights" />
+  Latest Insights
 </p>
 
 <br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=22&duration=0&pause=0&color=FFFFFF&center=true&vCenter=true&width=700&lines=From+the+Sentic+blog." alt="Insights Headline" />
-</p>
 
 <br/>
 
@@ -225,14 +208,10 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=11&duration=0&pause=0&color=6C63FF&center=true&vCenter=true&width=300&lines=%E2%80%94+%20READY+TO+LAUNCH%3F+%20%E2%80%94" alt="Ready to Launch" />
+  Ready To Launch
 </p>
 
 <br/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=26&duration=2800&pause=1200&color=6C63FF&center=true&vCenter=true&width=700&lines=Put+an+end+to+stop-start+marketing.;Start+your+trajectory+for+growth.;The+next+stage+starts+here." alt="CTA Headline" />
-</p>
 
 <br/>
 
